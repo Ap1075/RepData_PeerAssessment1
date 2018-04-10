@@ -1,4 +1,4 @@
-My first R md file 
+Course 5 project 1
 =====================
 
 | Project | Author |
